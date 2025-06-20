@@ -10,7 +10,8 @@
 - Find gluten-free grocery stores and specialty shops  
 - Locate essential health professionals  
 - Access national foundations for up-to-date medical and dietary information  
-- Connect with local support groups  
+- Connect with local support groups
+- Easily access reviews and websites to ascertain that the establishment caters to your specific needs
 
 ---
 
@@ -22,7 +23,7 @@ Data was sourced from:
 - 6 different APIs  
 - 4 celiac-related websites (via web scraping)
 
-I used Python (pandas, numpy, requests, BeautifulSoup) and MySQL80
+I used **Python** (pandas, numpy, requests, BeautifulSoup) and **MySQL80**
 
 ---
 
@@ -30,15 +31,15 @@ I used Python (pandas, numpy, requests, BeautifulSoup) and MySQL80
 
 A one-man, ten day, google cloud console free trial-budget prototype, so far it includes data on  13 cities - from Tokyo to Buenos Airies - and is hosted on a rudimentary Streamlit website.
 
-However, the pipeline has potential for global scaling.
+However, the pipeline has potential for global **scaling**.
 
 ---
 
 ## 🌍 Global Reach
 
-- The aqcuisition and filtering process is fully automated and localized  
-- Complex, multi-lingual query system and filters  help side-step false positives and SEO manipulation  
-- Works in every language in Google Translate catalogue
+- The aqcuisition and filtering process is fully **automated** and **localized**.
+- Complex, multi-lingual query system and filters  help side-step false positives and SEO manipulation.  
+- Works in **every language** in Google Translate catalogue.
 
 ---
 
@@ -54,4 +55,4 @@ Plans include:
 
 ---
 
-📬 You can contact me at **reachtornike@gmail.com**
+##📬 You can contact me at **reachtornike@gmail.com**
