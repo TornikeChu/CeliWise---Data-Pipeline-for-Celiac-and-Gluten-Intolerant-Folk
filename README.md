@@ -23,7 +23,7 @@ Data was sourced from:
 - 6 different APIs  
 - 4 celiac-related websites (via web scraping)
 
-I used **Python** (pandas, numpy, requests, BeautifulSoup) and **MySQL80**
+I used **Python** (pandas, numpy, requests, BeautifulSoup) and **MySQL 8.0**
 
 ---
 
@@ -56,3 +56,4 @@ Plans include:
 ---
 
 ##📬 You can contact me at **reachtornike@gmail.com**
+
